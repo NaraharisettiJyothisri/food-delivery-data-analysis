@@ -2,7 +2,7 @@
 
 ## 📖 Overview
 
-Food delivery platforms generate large amounts of customer and restaurant data every day. This project performs Exploratory Data Analysis (EDA) to discover valuable business insights using Python and Power BI.
+Food delivery platforms generate large amounts of customer and restaurant data every day. This project performs Exploratory Data Analysis (EDA) to discover valuable business insights using Python.
 
 ---
 
@@ -23,8 +23,6 @@ Food delivery platforms generate large amounts of customer and restaurant data e
 - Pandas
 - NumPy
 - Matplotlib
-- Power BI
-- Excel
 
 ---
 
